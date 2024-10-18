@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZiJ5Y3HLopbUa2fiAD5znBwTQY7Ac8YiE4PytbHbGrM=",
+  "Source": "WebAppDIWithoutInterfaces",
+  "BasePath": "_content/WebAppDIWithoutInterfaces",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
